@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/apoorvasri132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorva srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/@apoorva_sri13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@apoorva_sri13" height="30" width="40" /></a>
+<a href="https://www.instagram.com/apoorva_sri13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@apoorva_sri13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/apoorvasri132000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="apoorva srivastava" height="30" width="40" /></a>
 </p>
 
