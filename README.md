@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Apoorva Srivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://www.workifit.com/static/fa218b27d840abf8ec2e4823b7383e22/gabi-d.gif">
 
 - 🔭 I’m currently working as Java Developer Intern at **HulkHire**
 
